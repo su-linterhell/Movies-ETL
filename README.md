@@ -12,6 +12,6 @@ The Kaggle Data was more consistent than the Wikipedia Data and required less wo
 
 
 ## Summary 
-There was some overlap between both sources of data. By looking closer into the similar columns, we kept the Kaggle for all overlapping columns. We either dropped the Wikipedia data or used it to fill in for missing rows of data in the Kaggle Data. 
+There was some overlap between both sources of data. By looking closer into the similar columns, we kept the Kaggle for all overlapping columns. We either dropped the Wikipedia data or used it to fill in for missing rows of data in the Kaggle Data. By cleaning & merging both datasets, this information is now easy to access via a database in PostgreSQL. 
 
 ![Mege_dfs](Screenshots/Merge_dfs.png)
