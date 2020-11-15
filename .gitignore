@@ -1,3 +1,7 @@
+# Adding config files 
+config.py
+Challenge_files/config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
